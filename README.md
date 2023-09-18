@@ -19,6 +19,7 @@ Se extraen los datos financieros de 10 criptomonedas:
 9• "MDL"
 10• "AMD"
 
+Se crea .env para cargar las credenciales
 
 2) ENTREGA N°2:
    

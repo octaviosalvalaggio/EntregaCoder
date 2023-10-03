@@ -7,7 +7,7 @@ from sqlalchemy.exc import IntegrityError  # Importar esta excepción
 
 # Función para obtener tasas de cambio de criptomonedas a través de la API
 def obtener_tasas_de_cambio(criptos):
-    url = 'https://api.exchangerate.host/latest'
+    url = 'http://api.exchangerate.host/live?access_key=aff6cf9aaecb91816550ecc09abb624b'
     params = {'symbols': ','.join(criptos)}
     
     try:
@@ -32,10 +32,6 @@ if tasas_de_cambio is not None:
     # Convertir los datos en un DataFrame de Pandas
     df = pd.DataFrame(tasas_de_cambio)
 
-    # Resetear el índice y renombrar la columna del índice
-    df.reset_index(inplace=True)
-    df.rename(columns={"index": "Enterprise"}, inplace=True)
-
     # Imprimir el DataFrame
     print(df)
     
@@ -54,7 +50,7 @@ if tasas_de_cambio is not None:
 
     try:
         # Insertar los datos en la tabla 'tasas_de_cambio', evitando duplicados
-        df.to_sql('tasas_de_cambio', conn, if_exists='append', index=False)
+        df.to_sql('tasas_de_cambio', conn, if_exists='replace', index=False)
         print("Datos insertados en la tabla 'tasas_de_cambio'")
     except IntegrityError as e:
         print("Error al insertar datos en la tabla 'tasas_de_cambio':", e)

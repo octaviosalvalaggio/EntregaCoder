@@ -1,0 +1,1006 @@
+[2023-10-03 13:02:02,296] {processor.py:153} INFO - Started process (PID=45) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:02:02,297] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:02:02,298] {logging_mixin.py:115} INFO - [2023-10-03 13:02:02,298] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:02:02,318] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:02:02,392] {logging_mixin.py:115} INFO - [2023-10-03 13:02:02,392] {manager.py:508} INFO - Created Permission View: can delete on DAG:crypto_api_dag
+[2023-10-03 13:02:02,402] {logging_mixin.py:115} INFO - [2023-10-03 13:02:02,402] {manager.py:508} INFO - Created Permission View: can read on DAG:crypto_api_dag
+[2023-10-03 13:02:02,409] {logging_mixin.py:115} INFO - [2023-10-03 13:02:02,409] {manager.py:508} INFO - Created Permission View: can edit on DAG:crypto_api_dag
+[2023-10-03 13:02:02,410] {logging_mixin.py:115} INFO - [2023-10-03 13:02:02,410] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:02:02,417] {logging_mixin.py:115} INFO - [2023-10-03 13:02:02,417] {dag.py:2398} INFO - Creating ORM DAG for crypto_api_dag
+[2023-10-03 13:02:02,429] {logging_mixin.py:115} INFO - [2023-10-03 13:02:02,429] {dag.py:2931} INFO - Setting next_dagrun for crypto_api_dag to 2023-01-01T00:00:00+00:00, run_after=2023-01-02T00:00:00+00:00
+[2023-10-03 13:02:02,594] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.301 seconds
+[2023-10-03 13:02:32,970] {processor.py:153} INFO - Started process (PID=111) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:02:32,970] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:02:32,971] {logging_mixin.py:115} INFO - [2023-10-03 13:02:32,971] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:02:32,984] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:02:33,001] {logging_mixin.py:115} INFO - [2023-10-03 13:02:33,001] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:02:33,015] {logging_mixin.py:115} INFO - [2023-10-03 13:02:33,015] {dag.py:2931} INFO - Setting next_dagrun for crypto_api_dag to 2023-01-01T00:00:00+00:00, run_after=2023-01-02T00:00:00+00:00
+[2023-10-03 13:02:33,026] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.058 seconds
+[2023-10-03 13:03:03,983] {processor.py:153} INFO - Started process (PID=177) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:03:03,983] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:03:03,984] {logging_mixin.py:115} INFO - [2023-10-03 13:03:03,984] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:03:03,997] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:03:04,014] {logging_mixin.py:115} INFO - [2023-10-03 13:03:04,014] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:03:04,027] {logging_mixin.py:115} INFO - [2023-10-03 13:03:04,026] {dag.py:2931} INFO - Setting next_dagrun for crypto_api_dag to 2023-01-01T00:00:00+00:00, run_after=2023-01-02T00:00:00+00:00
+[2023-10-03 13:03:04,037] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.056 seconds
+[2023-10-03 13:03:34,102] {processor.py:153} INFO - Started process (PID=234) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:03:34,103] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:03:34,103] {logging_mixin.py:115} INFO - [2023-10-03 13:03:34,103] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:03:34,117] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:03:34,136] {logging_mixin.py:115} INFO - [2023-10-03 13:03:34,136] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:03:34,156] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.056 seconds
+[2023-10-03 13:04:04,176] {processor.py:153} INFO - Started process (PID=300) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:04:04,176] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:04:04,176] {logging_mixin.py:115} INFO - [2023-10-03 13:04:04,176] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:04:04,189] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:04:04,204] {logging_mixin.py:115} INFO - [2023-10-03 13:04:04,204] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:04:04,224] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.050 seconds
+[2023-10-03 13:04:34,348] {processor.py:153} INFO - Started process (PID=366) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:04:34,349] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:04:34,349] {logging_mixin.py:115} INFO - [2023-10-03 13:04:34,349] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:04:34,362] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:04:34,378] {logging_mixin.py:115} INFO - [2023-10-03 13:04:34,378] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:04:34,408] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.062 seconds
+[2023-10-03 13:05:04,471] {processor.py:153} INFO - Started process (PID=423) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:05:04,472] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:05:04,472] {logging_mixin.py:115} INFO - [2023-10-03 13:05:04,472] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:05:04,486] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:05:04,502] {logging_mixin.py:115} INFO - [2023-10-03 13:05:04,502] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:05:04,523] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.053 seconds
+[2023-10-03 13:05:34,632] {processor.py:153} INFO - Started process (PID=489) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:05:34,632] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:05:34,632] {logging_mixin.py:115} INFO - [2023-10-03 13:05:34,632] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:05:34,645] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:05:34,661] {logging_mixin.py:115} INFO - [2023-10-03 13:05:34,660] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:05:34,680] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.051 seconds
+[2023-10-03 13:06:05,375] {processor.py:153} INFO - Started process (PID=555) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:06:05,375] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:06:05,376] {logging_mixin.py:115} INFO - [2023-10-03 13:06:05,376] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:06:05,388] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:06:05,408] {logging_mixin.py:115} INFO - [2023-10-03 13:06:05,407] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:06:05,430] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.057 seconds
+[2023-10-03 13:06:36,086] {processor.py:153} INFO - Started process (PID=621) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:06:36,086] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:06:36,087] {logging_mixin.py:115} INFO - [2023-10-03 13:06:36,087] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:06:36,100] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:06:36,116] {logging_mixin.py:115} INFO - [2023-10-03 13:06:36,116] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:06:36,139] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.055 seconds
+[2023-10-03 13:07:06,828] {processor.py:153} INFO - Started process (PID=679) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:07:06,829] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:07:06,829] {logging_mixin.py:115} INFO - [2023-10-03 13:07:06,829] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:07:06,841] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:07:06,859] {logging_mixin.py:115} INFO - [2023-10-03 13:07:06,858] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:07:06,886] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.060 seconds
+[2023-10-03 13:07:37,698] {processor.py:153} INFO - Started process (PID=746) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:07:37,698] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:07:37,699] {logging_mixin.py:115} INFO - [2023-10-03 13:07:37,699] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:07:37,711] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:07:37,728] {logging_mixin.py:115} INFO - [2023-10-03 13:07:37,728] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:07:37,752] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.056 seconds
+[2023-10-03 13:08:08,707] {processor.py:153} INFO - Started process (PID=812) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:08:08,708] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:08:08,708] {logging_mixin.py:115} INFO - [2023-10-03 13:08:08,708] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:08:08,719] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:08:08,735] {logging_mixin.py:115} INFO - [2023-10-03 13:08:08,735] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:08:08,756] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.051 seconds
+[2023-10-03 13:08:25,379] {processor.py:153} INFO - Started process (PID=869) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:08:25,380] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:08:25,380] {logging_mixin.py:115} INFO - [2023-10-03 13:08:25,380] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:08:25,400] {logging_mixin.py:115} INFO - [2023-10-03 13:08:25,399] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 22
+    import python-decouple
+                 ^
+SyntaxError: invalid syntax
+[2023-10-03 13:08:25,401] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:08:25,414] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.037 seconds
+[2023-10-03 13:09:39,982] {processor.py:153} INFO - Started process (PID=45) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:09:39,983] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:09:39,983] {logging_mixin.py:115} INFO - [2023-10-03 13:09:39,983] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:09:39,993] {logging_mixin.py:115} INFO - [2023-10-03 13:09:39,992] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 22
+    import python-decouple
+                 ^
+SyntaxError: invalid syntax
+[2023-10-03 13:09:39,993] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:09:40,010] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.031 seconds
+[2023-10-03 13:10:10,269] {processor.py:153} INFO - Started process (PID=111) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:10:10,270] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:10:10,270] {logging_mixin.py:115} INFO - [2023-10-03 13:10:10,270] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:10:10,279] {logging_mixin.py:115} INFO - [2023-10-03 13:10:10,279] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 22
+    import python-decouple
+                 ^
+SyntaxError: invalid syntax
+[2023-10-03 13:10:10,280] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:10:10,296] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.028 seconds
+[2023-10-03 13:10:18,356] {processor.py:153} INFO - Started process (PID=150) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:10:18,357] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:10:18,357] {logging_mixin.py:115} INFO - [2023-10-03 13:10:18,357] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:10:18,400] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:10:18,418] {logging_mixin.py:115} INFO - [2023-10-03 13:10:18,418] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:10:18,433] {logging_mixin.py:115} INFO - [2023-10-03 13:10:18,433] {dag.py:2931} INFO - Setting next_dagrun for crypto_api_dag to 2023-01-17T00:00:00+00:00, run_after=2023-01-18T00:00:00+00:00
+[2023-10-03 13:10:18,444] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.090 seconds
+[2023-10-03 13:11:09,337] {processor.py:153} INFO - Started process (PID=45) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:11:09,338] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:11:09,338] {logging_mixin.py:115} INFO - [2023-10-03 13:11:09,338] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:11:09,351] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:11:09,372] {logging_mixin.py:115} INFO - [2023-10-03 13:11:09,372] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:11:09,398] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.063 seconds
+[2023-10-03 13:11:40,021] {processor.py:153} INFO - Started process (PID=111) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:11:40,022] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:11:40,022] {logging_mixin.py:115} INFO - [2023-10-03 13:11:40,022] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:11:40,035] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:11:40,051] {logging_mixin.py:115} INFO - [2023-10-03 13:11:40,051] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:11:40,074] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.055 seconds
+[2023-10-03 13:12:10,945] {processor.py:153} INFO - Started process (PID=177) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:12:10,946] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:12:10,946] {logging_mixin.py:115} INFO - [2023-10-03 13:12:10,946] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:12:10,960] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:12:10,976] {logging_mixin.py:115} INFO - [2023-10-03 13:12:10,976] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:12:11,001] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.057 seconds
+[2023-10-03 13:12:41,775] {processor.py:153} INFO - Started process (PID=234) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:12:41,775] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:12:41,776] {logging_mixin.py:115} INFO - [2023-10-03 13:12:41,776] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:12:41,789] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:12:41,805] {logging_mixin.py:115} INFO - [2023-10-03 13:12:41,805] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:12:41,831] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.058 seconds
+[2023-10-03 13:13:12,037] {processor.py:153} INFO - Started process (PID=300) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:13:12,037] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:13:12,038] {logging_mixin.py:115} INFO - [2023-10-03 13:13:12,038] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:13:12,051] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:13:12,067] {logging_mixin.py:115} INFO - [2023-10-03 13:13:12,067] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:13:12,089] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.054 seconds
+[2023-10-03 13:13:42,327] {processor.py:153} INFO - Started process (PID=366) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:13:42,327] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:13:42,328] {logging_mixin.py:115} INFO - [2023-10-03 13:13:42,328] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:13:42,341] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:13:42,356] {logging_mixin.py:115} INFO - [2023-10-03 13:13:42,356] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:13:42,379] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.054 seconds
+[2023-10-03 13:14:13,213] {processor.py:153} INFO - Started process (PID=432) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:14:13,214] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:14:13,214] {logging_mixin.py:115} INFO - [2023-10-03 13:14:13,214] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:14:13,229] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:14:13,248] {logging_mixin.py:115} INFO - [2023-10-03 13:14:13,248] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:14:13,275] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.064 seconds
+[2023-10-03 13:14:22,165] {processor.py:153} INFO - Started process (PID=480) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:14:22,166] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:14:22,166] {logging_mixin.py:115} INFO - [2023-10-03 13:14:22,166] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:14:22,194] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:14:22,209] {logging_mixin.py:115} INFO - [2023-10-03 13:14:22,209] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:14:22,231] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.067 seconds
+[2023-10-03 13:15:07,096] {processor.py:153} INFO - Started process (PID=45) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:15:07,097] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:15:07,097] {logging_mixin.py:115} INFO - [2023-10-03 13:15:07,097] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:15:07,110] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:15:07,131] {logging_mixin.py:115} INFO - [2023-10-03 13:15:07,131] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:15:07,157] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.064 seconds
+[2023-10-03 13:15:37,377] {processor.py:153} INFO - Started process (PID=135) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:15:37,377] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:15:37,378] {logging_mixin.py:115} INFO - [2023-10-03 13:15:37,378] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:15:37,391] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:15:37,408] {logging_mixin.py:115} INFO - [2023-10-03 13:15:37,407] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:15:37,429] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.054 seconds
+[2023-10-03 13:16:08,218] {processor.py:153} INFO - Started process (PID=201) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:16:08,219] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:16:08,219] {logging_mixin.py:115} INFO - [2023-10-03 13:16:08,219] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:16:08,233] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:16:08,250] {logging_mixin.py:115} INFO - [2023-10-03 13:16:08,250] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:16:08,273] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.056 seconds
+[2023-10-03 13:16:38,540] {processor.py:153} INFO - Started process (PID=258) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:16:38,540] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:16:38,541] {logging_mixin.py:115} INFO - [2023-10-03 13:16:38,541] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:16:38,554] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:16:38,570] {logging_mixin.py:115} INFO - [2023-10-03 13:16:38,570] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:16:38,592] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.054 seconds
+[2023-10-03 13:17:08,674] {processor.py:153} INFO - Started process (PID=324) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:17:08,674] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:17:08,675] {logging_mixin.py:115} INFO - [2023-10-03 13:17:08,675] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:17:08,690] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:17:08,708] {logging_mixin.py:115} INFO - [2023-10-03 13:17:08,708] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:17:08,732] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.061 seconds
+[2023-10-03 13:17:39,634] {processor.py:153} INFO - Started process (PID=390) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:17:39,634] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:17:39,634] {logging_mixin.py:115} INFO - [2023-10-03 13:17:39,634] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:17:39,648] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:17:39,664] {logging_mixin.py:115} INFO - [2023-10-03 13:17:39,664] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:17:39,684] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.052 seconds
+[2023-10-03 13:18:10,616] {processor.py:153} INFO - Started process (PID=456) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:18:10,617] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:18:10,617] {logging_mixin.py:115} INFO - [2023-10-03 13:18:10,617] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:18:10,631] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:18:10,646] {logging_mixin.py:115} INFO - [2023-10-03 13:18:10,646] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:18:10,668] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.053 seconds
+[2023-10-03 13:18:41,478] {processor.py:153} INFO - Started process (PID=513) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:18:41,478] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:18:41,478] {logging_mixin.py:115} INFO - [2023-10-03 13:18:41,478] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:18:41,491] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:18:41,507] {logging_mixin.py:115} INFO - [2023-10-03 13:18:41,507] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:18:41,527] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.051 seconds
+[2023-10-03 13:19:12,420] {processor.py:153} INFO - Started process (PID=579) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:19:12,421] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:19:12,421] {logging_mixin.py:115} INFO - [2023-10-03 13:19:12,421] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:19:12,434] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:19:12,450] {logging_mixin.py:115} INFO - [2023-10-03 13:19:12,450] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:19:12,469] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.051 seconds
+[2023-10-03 13:19:43,284] {processor.py:153} INFO - Started process (PID=646) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:19:43,285] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:19:43,285] {logging_mixin.py:115} INFO - [2023-10-03 13:19:43,285] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:19:43,299] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:19:43,317] {logging_mixin.py:115} INFO - [2023-10-03 13:19:43,317] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:19:43,339] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.056 seconds
+[2023-10-03 13:20:13,987] {processor.py:153} INFO - Started process (PID=712) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:20:13,988] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:20:13,988] {logging_mixin.py:115} INFO - [2023-10-03 13:20:13,988] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:20:13,999] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:20:14,018] {logging_mixin.py:115} INFO - [2023-10-03 13:20:14,018] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:20:14,039] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.054 seconds
+[2023-10-03 13:20:44,748] {processor.py:153} INFO - Started process (PID=806) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:20:44,749] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:20:44,749] {logging_mixin.py:115} INFO - [2023-10-03 13:20:44,749] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:20:44,760] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:20:44,777] {logging_mixin.py:115} INFO - [2023-10-03 13:20:44,777] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:20:44,800] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.054 seconds
+[2023-10-03 13:21:14,897] {processor.py:153} INFO - Started process (PID=863) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:21:14,898] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:21:14,898] {logging_mixin.py:115} INFO - [2023-10-03 13:21:14,898] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:21:14,910] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:21:14,930] {logging_mixin.py:115} INFO - [2023-10-03 13:21:14,929] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:21:14,959] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.064 seconds
+[2023-10-03 13:21:45,012] {processor.py:153} INFO - Started process (PID=929) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:21:45,012] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:21:45,013] {logging_mixin.py:115} INFO - [2023-10-03 13:21:45,013] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:21:45,024] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:21:45,044] {logging_mixin.py:115} INFO - [2023-10-03 13:21:45,044] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:21:45,067] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.057 seconds
+[2023-10-03 13:22:15,700] {processor.py:153} INFO - Started process (PID=995) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:22:15,701] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:22:15,701] {logging_mixin.py:115} INFO - [2023-10-03 13:22:15,701] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:22:15,712] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:22:15,731] {logging_mixin.py:115} INFO - [2023-10-03 13:22:15,731] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:22:15,756] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.058 seconds
+[2023-10-03 13:22:46,462] {processor.py:153} INFO - Started process (PID=1062) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:22:46,462] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:22:46,463] {logging_mixin.py:115} INFO - [2023-10-03 13:22:46,463] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:22:46,473] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:22:46,489] {logging_mixin.py:115} INFO - [2023-10-03 13:22:46,489] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:22:46,511] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.052 seconds
+[2023-10-03 13:23:17,126] {processor.py:153} INFO - Started process (PID=1119) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:23:17,126] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:23:17,127] {logging_mixin.py:115} INFO - [2023-10-03 13:23:17,127] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:23:17,139] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:23:17,155] {logging_mixin.py:115} INFO - [2023-10-03 13:23:17,155] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:23:17,177] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.053 seconds
+[2023-10-03 13:23:47,731] {processor.py:153} INFO - Started process (PID=1182) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:23:47,732] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:23:47,732] {logging_mixin.py:115} INFO - [2023-10-03 13:23:47,732] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:23:47,743] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:23:47,757] {logging_mixin.py:115} INFO - [2023-10-03 13:23:47,757] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:23:47,778] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.049 seconds
+[2023-10-03 13:24:18,130] {processor.py:153} INFO - Started process (PID=1245) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:24:18,130] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:24:18,131] {logging_mixin.py:115} INFO - [2023-10-03 13:24:18,131] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:24:18,141] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:24:18,155] {logging_mixin.py:115} INFO - [2023-10-03 13:24:18,155] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:24:18,176] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.048 seconds
+[2023-10-03 13:24:48,559] {processor.py:153} INFO - Started process (PID=1307) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:24:48,560] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:24:48,561] {logging_mixin.py:115} INFO - [2023-10-03 13:24:48,561] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:24:48,571] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:24:48,589] {logging_mixin.py:115} INFO - [2023-10-03 13:24:48,589] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:24:48,617] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.060 seconds
+[2023-10-03 13:25:19,075] {processor.py:153} INFO - Started process (PID=1360) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:25:19,076] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:25:19,076] {logging_mixin.py:115} INFO - [2023-10-03 13:25:19,076] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:25:19,088] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:25:19,102] {logging_mixin.py:115} INFO - [2023-10-03 13:25:19,102] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:25:19,122] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.049 seconds
+[2023-10-03 13:25:49,696] {processor.py:153} INFO - Started process (PID=1446) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:25:49,696] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:25:49,697] {logging_mixin.py:115} INFO - [2023-10-03 13:25:49,697] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:25:49,708] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:25:49,727] {logging_mixin.py:115} INFO - [2023-10-03 13:25:49,726] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:25:49,746] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.052 seconds
+[2023-10-03 13:26:20,208] {processor.py:153} INFO - Started process (PID=1508) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:26:20,208] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:26:20,209] {logging_mixin.py:115} INFO - [2023-10-03 13:26:20,209] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:26:20,220] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:26:20,237] {logging_mixin.py:115} INFO - [2023-10-03 13:26:20,237] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:26:20,261] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.055 seconds
+[2023-10-03 13:26:50,989] {processor.py:153} INFO - Started process (PID=1561) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:26:50,990] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:26:50,991] {logging_mixin.py:115} INFO - [2023-10-03 13:26:50,991] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:26:51,001] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:26:51,018] {logging_mixin.py:115} INFO - [2023-10-03 13:26:51,018] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:26:51,037] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.049 seconds
+[2023-10-03 13:27:21,574] {processor.py:153} INFO - Started process (PID=1623) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:27:21,574] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:27:21,575] {logging_mixin.py:115} INFO - [2023-10-03 13:27:21,575] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:27:21,586] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:27:21,601] {logging_mixin.py:115} INFO - [2023-10-03 13:27:21,601] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:27:21,621] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.048 seconds
+[2023-10-03 13:27:52,047] {processor.py:153} INFO - Started process (PID=1685) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:27:52,047] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:27:52,048] {logging_mixin.py:115} INFO - [2023-10-03 13:27:52,047] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:27:52,059] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:27:52,075] {logging_mixin.py:115} INFO - [2023-10-03 13:27:52,075] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:27:52,095] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.051 seconds
+[2023-10-03 13:28:22,641] {processor.py:153} INFO - Started process (PID=1738) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:28:22,641] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:28:22,642] {logging_mixin.py:115} INFO - [2023-10-03 13:28:22,642] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:28:22,653] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:28:22,669] {logging_mixin.py:115} INFO - [2023-10-03 13:28:22,669] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:28:22,689] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.050 seconds
+[2023-10-03 13:28:53,265] {processor.py:153} INFO - Started process (PID=1800) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:28:53,266] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:28:53,266] {logging_mixin.py:115} INFO - [2023-10-03 13:28:53,266] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:28:53,278] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:28:53,295] {logging_mixin.py:115} INFO - [2023-10-03 13:28:53,295] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:28:53,317] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.054 seconds
+[2023-10-03 13:29:23,940] {processor.py:153} INFO - Started process (PID=1862) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:29:23,941] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:29:23,941] {logging_mixin.py:115} INFO - [2023-10-03 13:29:23,941] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:29:23,952] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:29:23,969] {logging_mixin.py:115} INFO - [2023-10-03 13:29:23,969] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:29:23,991] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.054 seconds
+[2023-10-03 13:29:54,631] {processor.py:153} INFO - Started process (PID=1922) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:29:54,631] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:29:54,632] {logging_mixin.py:115} INFO - [2023-10-03 13:29:54,632] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:29:54,642] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:29:54,661] {logging_mixin.py:115} INFO - [2023-10-03 13:29:54,661] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:29:54,684] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.055 seconds
+[2023-10-03 13:30:24,764] {processor.py:153} INFO - Started process (PID=1979) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:30:24,765] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:30:24,765] {logging_mixin.py:115} INFO - [2023-10-03 13:30:24,765] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:30:24,777] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:30:24,795] {logging_mixin.py:115} INFO - [2023-10-03 13:30:24,795] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:30:24,821] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.059 seconds
+[2023-10-03 13:30:54,953] {processor.py:153} INFO - Started process (PID=2066) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:30:54,954] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:30:54,954] {logging_mixin.py:115} INFO - [2023-10-03 13:30:54,954] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:30:54,966] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:30:54,983] {logging_mixin.py:115} INFO - [2023-10-03 13:30:54,983] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:30:55,006] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.055 seconds
+[2023-10-03 13:31:53,063] {processor.py:153} INFO - Started process (PID=47) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:31:53,064] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:31:53,064] {logging_mixin.py:115} INFO - [2023-10-03 13:31:53,064] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:31:53,085] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:31:53,110] {logging_mixin.py:115} INFO - [2023-10-03 13:31:53,110] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:31:53,148] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.088 seconds
+[2023-10-03 13:32:23,861] {processor.py:153} INFO - Started process (PID=112) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:32:23,862] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:32:23,862] {logging_mixin.py:115} INFO - [2023-10-03 13:32:23,862] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:32:23,877] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:32:23,897] {logging_mixin.py:115} INFO - [2023-10-03 13:32:23,897] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:32:23,922] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.063 seconds
+[2023-10-03 13:32:53,968] {processor.py:153} INFO - Started process (PID=176) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:32:53,969] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:32:53,969] {logging_mixin.py:115} INFO - [2023-10-03 13:32:53,969] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:32:53,984] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:32:54,005] {logging_mixin.py:115} INFO - [2023-10-03 13:32:54,005] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:32:54,031] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.065 seconds
+[2023-10-03 13:33:24,371] {processor.py:153} INFO - Started process (PID=232) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:33:24,371] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:33:24,371] {logging_mixin.py:115} INFO - [2023-10-03 13:33:24,371] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:33:24,385] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:33:24,400] {logging_mixin.py:115} INFO - [2023-10-03 13:33:24,400] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:33:24,426] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.057 seconds
+[2023-10-03 13:33:54,476] {processor.py:153} INFO - Started process (PID=297) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:33:54,476] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:33:54,477] {logging_mixin.py:115} INFO - [2023-10-03 13:33:54,477] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:33:54,492] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:33:54,511] {logging_mixin.py:115} INFO - [2023-10-03 13:33:54,511] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:33:54,538] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.064 seconds
+[2023-10-03 13:34:24,749] {processor.py:153} INFO - Started process (PID=361) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:34:24,749] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:34:24,750] {logging_mixin.py:115} INFO - [2023-10-03 13:34:24,750] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:34:24,768] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:34:24,787] {logging_mixin.py:115} INFO - [2023-10-03 13:34:24,787] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:34:24,814] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.067 seconds
+[2023-10-03 13:38:07,040] {processor.py:153} INFO - Started process (PID=45) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:38:07,041] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:38:07,041] {logging_mixin.py:115} INFO - [2023-10-03 13:38:07,041] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:38:07,063] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:38:07,089] {logging_mixin.py:115} INFO - [2023-10-03 13:38:07,089] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:38:07,115] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.080 seconds
+[2023-10-03 13:38:37,471] {processor.py:153} INFO - Started process (PID=123) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:38:37,472] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:38:37,472] {logging_mixin.py:115} INFO - [2023-10-03 13:38:37,472] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:38:37,489] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:38:37,504] {logging_mixin.py:115} INFO - [2023-10-03 13:38:37,504] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:38:37,526] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.057 seconds
+[2023-10-03 13:39:07,643] {processor.py:153} INFO - Started process (PID=176) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:39:07,643] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:39:07,643] {logging_mixin.py:115} INFO - [2023-10-03 13:39:07,643] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:39:07,656] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:39:07,672] {logging_mixin.py:115} INFO - [2023-10-03 13:39:07,672] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:39:07,693] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.052 seconds
+[2023-10-03 13:39:38,463] {processor.py:153} INFO - Started process (PID=238) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:39:38,464] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:39:38,464] {logging_mixin.py:115} INFO - [2023-10-03 13:39:38,464] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:39:38,477] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:39:38,493] {logging_mixin.py:115} INFO - [2023-10-03 13:39:38,492] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:39:38,517] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.055 seconds
+[2023-10-03 13:40:09,129] {processor.py:153} INFO - Started process (PID=301) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:40:09,130] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:40:09,130] {logging_mixin.py:115} INFO - [2023-10-03 13:40:09,130] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:40:09,143] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:40:09,159] {logging_mixin.py:115} INFO - [2023-10-03 13:40:09,159] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:40:09,178] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.050 seconds
+[2023-10-03 13:40:39,764] {processor.py:153} INFO - Started process (PID=363) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:40:39,764] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:40:39,765] {logging_mixin.py:115} INFO - [2023-10-03 13:40:39,765] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:40:39,779] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:40:39,797] {logging_mixin.py:115} INFO - [2023-10-03 13:40:39,797] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:40:39,823] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.061 seconds
+[2023-10-03 13:41:10,273] {processor.py:153} INFO - Started process (PID=416) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:41:10,273] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:41:10,273] {logging_mixin.py:115} INFO - [2023-10-03 13:41:10,273] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:41:10,286] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:41:10,302] {logging_mixin.py:115} INFO - [2023-10-03 13:41:10,301] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:41:10,322] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.051 seconds
+[2023-10-03 13:41:41,086] {processor.py:153} INFO - Started process (PID=478) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:41:41,086] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:41:41,087] {logging_mixin.py:115} INFO - [2023-10-03 13:41:41,087] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:41:41,100] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:41:41,116] {logging_mixin.py:115} INFO - [2023-10-03 13:41:41,116] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:41:41,138] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.054 seconds
+[2023-10-03 13:41:46,788] {processor.py:153} INFO - Started process (PID=522) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:41:46,789] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:41:46,789] {logging_mixin.py:115} INFO - [2023-10-03 13:41:46,789] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:41:46,812] {logging_mixin.py:115} INFO - [2023-10-03 13:41:46,810] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 3, in <module>
+    from airflow.operators import PythonOperator
+ImportError: cannot import name 'PythonOperator' from 'airflow.operators' (/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/__init__.py)
+[2023-10-03 13:41:46,813] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:41:46,829] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.043 seconds
+[2023-10-03 13:43:11,605] {processor.py:153} INFO - Started process (PID=45) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:43:11,607] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:43:11,608] {logging_mixin.py:115} INFO - [2023-10-03 13:43:11,607] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:43:11,627] {logging_mixin.py:115} INFO - [2023-10-03 13:43:11,623] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 3, in <module>
+    from airflow.operators import PythonOperator
+ImportError: cannot import name 'PythonOperator' from 'airflow.operators' (/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/__init__.py)
+[2023-10-03 13:43:11,628] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:43:11,651] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.049 seconds
+[2023-10-03 13:43:41,987] {processor.py:153} INFO - Started process (PID=132) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:43:41,987] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:43:41,988] {logging_mixin.py:115} INFO - [2023-10-03 13:43:41,988] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:43:41,998] {logging_mixin.py:115} INFO - [2023-10-03 13:43:41,996] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 3, in <module>
+    from airflow.operators import PythonOperator
+ImportError: cannot import name 'PythonOperator' from 'airflow.operators' (/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/__init__.py)
+[2023-10-03 13:43:41,999] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:43:42,015] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.030 seconds
+[2023-10-03 13:44:12,784] {processor.py:153} INFO - Started process (PID=194) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:44:12,785] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:44:12,789] {logging_mixin.py:115} INFO - [2023-10-03 13:44:12,789] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:44:12,800] {logging_mixin.py:115} INFO - [2023-10-03 13:44:12,798] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 3, in <module>
+    from airflow.operators import PythonOperator
+ImportError: cannot import name 'PythonOperator' from 'airflow.operators' (/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/__init__.py)
+[2023-10-03 13:44:12,801] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:44:12,817] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.035 seconds
+[2023-10-03 13:44:43,534] {processor.py:153} INFO - Started process (PID=247) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:44:43,535] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:44:43,535] {logging_mixin.py:115} INFO - [2023-10-03 13:44:43,535] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:44:43,545] {logging_mixin.py:115} INFO - [2023-10-03 13:44:43,543] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 3, in <module>
+    from airflow.operators import PythonOperator
+ImportError: cannot import name 'PythonOperator' from 'airflow.operators' (/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/__init__.py)
+[2023-10-03 13:44:43,546] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:44:43,558] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.028 seconds
+[2023-10-03 13:45:14,140] {processor.py:153} INFO - Started process (PID=309) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:45:14,141] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:45:14,141] {logging_mixin.py:115} INFO - [2023-10-03 13:45:14,141] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:45:14,152] {logging_mixin.py:115} INFO - [2023-10-03 13:45:14,149] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 3, in <module>
+    from airflow.operators import PythonOperator
+ImportError: cannot import name 'PythonOperator' from 'airflow.operators' (/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/__init__.py)
+[2023-10-03 13:45:14,152] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:45:14,167] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.031 seconds
+[2023-10-03 13:45:44,647] {processor.py:153} INFO - Started process (PID=371) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:45:44,647] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:45:44,648] {logging_mixin.py:115} INFO - [2023-10-03 13:45:44,648] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:45:44,659] {logging_mixin.py:115} INFO - [2023-10-03 13:45:44,656] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 3, in <module>
+    from airflow.operators import PythonOperator
+ImportError: cannot import name 'PythonOperator' from 'airflow.operators' (/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/__init__.py)
+[2023-10-03 13:45:44,659] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:45:44,672] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.029 seconds
+[2023-10-03 13:46:15,312] {processor.py:153} INFO - Started process (PID=433) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:46:15,313] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:46:15,313] {logging_mixin.py:115} INFO - [2023-10-03 13:46:15,313] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:46:15,324] {logging_mixin.py:115} INFO - [2023-10-03 13:46:15,322] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 3, in <module>
+    from airflow.operators import PythonOperator
+ImportError: cannot import name 'PythonOperator' from 'airflow.operators' (/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/__init__.py)
+[2023-10-03 13:46:15,325] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:46:15,340] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.032 seconds
+[2023-10-03 13:46:46,098] {processor.py:153} INFO - Started process (PID=486) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:46:46,098] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:46:46,099] {logging_mixin.py:115} INFO - [2023-10-03 13:46:46,099] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:46:46,110] {logging_mixin.py:115} INFO - [2023-10-03 13:46:46,107] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 3, in <module>
+    from airflow.operators import PythonOperator
+ImportError: cannot import name 'PythonOperator' from 'airflow.operators' (/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/__init__.py)
+[2023-10-03 13:46:46,110] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:46:46,123] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.029 seconds
+[2023-10-03 13:47:16,787] {processor.py:153} INFO - Started process (PID=548) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:47:16,788] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:47:16,788] {logging_mixin.py:115} INFO - [2023-10-03 13:47:16,788] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:47:16,799] {logging_mixin.py:115} INFO - [2023-10-03 13:47:16,797] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 3, in <module>
+    from airflow.operators import PythonOperator
+ImportError: cannot import name 'PythonOperator' from 'airflow.operators' (/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/__init__.py)
+[2023-10-03 13:47:16,800] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:47:16,814] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.031 seconds
+[2023-10-03 13:47:47,321] {processor.py:153} INFO - Started process (PID=610) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:47:47,322] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:47:47,322] {logging_mixin.py:115} INFO - [2023-10-03 13:47:47,322] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:47:47,333] {logging_mixin.py:115} INFO - [2023-10-03 13:47:47,331] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 3, in <module>
+    from airflow.operators import PythonOperator
+ImportError: cannot import name 'PythonOperator' from 'airflow.operators' (/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/__init__.py)
+[2023-10-03 13:47:47,334] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:47:47,349] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.032 seconds
+[2023-10-03 13:48:18,146] {processor.py:153} INFO - Started process (PID=672) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:48:18,147] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:48:18,147] {logging_mixin.py:115} INFO - [2023-10-03 13:48:18,147] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:48:18,157] {logging_mixin.py:115} INFO - [2023-10-03 13:48:18,155] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 728, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 3, in <module>
+    from airflow.operators import PythonOperator
+ImportError: cannot import name 'PythonOperator' from 'airflow.operators' (/home/airflow/.local/lib/python3.7/site-packages/airflow/operators/__init__.py)
+[2023-10-03 13:48:18,158] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:48:18,176] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.032 seconds
+[2023-10-03 13:48:44,665] {processor.py:153} INFO - Started process (PID=725) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:48:44,666] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:48:44,666] {logging_mixin.py:115} INFO - [2023-10-03 13:48:44,666] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:48:44,684] {logging_mixin.py:115} INFO - [2023-10-03 13:48:44,684] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 72
+    bash_command = 'D:\Users\major\Desktop\EntregaCoder'
+                  ^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+[2023-10-03 13:48:44,684] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:48:44,698] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.035 seconds
+[2023-10-03 13:49:40,223] {processor.py:153} INFO - Started process (PID=45) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:49:40,224] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:49:40,225] {logging_mixin.py:115} INFO - [2023-10-03 13:49:40,225] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:49:40,239] {logging_mixin.py:115} INFO - [2023-10-03 13:49:40,238] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 72
+    bash_command = 'D:\Users\major\Desktop\EntregaCoder'
+                  ^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+[2023-10-03 13:49:40,239] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:49:40,256] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.036 seconds
+[2023-10-03 13:50:10,694] {processor.py:153} INFO - Started process (PID=107) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:50:10,695] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:50:10,695] {logging_mixin.py:115} INFO - [2023-10-03 13:50:10,695] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:50:10,707] {logging_mixin.py:115} INFO - [2023-10-03 13:50:10,706] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 72
+    bash_command = 'D:\Users\major\Desktop\EntregaCoder'
+                  ^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+[2023-10-03 13:50:10,707] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:50:10,724] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.032 seconds
+[2023-10-03 13:50:41,398] {processor.py:153} INFO - Started process (PID=169) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:50:41,399] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:50:41,399] {logging_mixin.py:115} INFO - [2023-10-03 13:50:41,399] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:50:41,409] {logging_mixin.py:115} INFO - [2023-10-03 13:50:41,409] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 72
+    bash_command = 'D:\Users\major\Desktop\EntregaCoder'
+                  ^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+[2023-10-03 13:50:41,409] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:50:41,433] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.038 seconds
+[2023-10-03 13:51:11,992] {processor.py:153} INFO - Started process (PID=222) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:51:11,993] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:51:11,993] {logging_mixin.py:115} INFO - [2023-10-03 13:51:11,993] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:51:12,003] {logging_mixin.py:115} INFO - [2023-10-03 13:51:12,003] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 72
+    bash_command = 'D:\Users\major\Desktop\EntregaCoder'
+                  ^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+[2023-10-03 13:51:12,004] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:51:12,020] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.029 seconds
+[2023-10-03 13:51:42,760] {processor.py:153} INFO - Started process (PID=284) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:51:42,761] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:51:42,761] {logging_mixin.py:115} INFO - [2023-10-03 13:51:42,761] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:51:42,772] {logging_mixin.py:115} INFO - [2023-10-03 13:51:42,771] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 72
+    bash_command = 'D:\Users\major\Desktop\EntregaCoder'
+                  ^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+[2023-10-03 13:51:42,772] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:51:42,788] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.030 seconds
+[2023-10-03 13:52:13,200] {processor.py:153} INFO - Started process (PID=346) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:52:13,200] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:52:13,201] {logging_mixin.py:115} INFO - [2023-10-03 13:52:13,201] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:52:13,213] {logging_mixin.py:115} INFO - [2023-10-03 13:52:13,213] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 72
+    bash_command = 'D:\Users\major\Desktop\EntregaCoder'
+                  ^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+[2023-10-03 13:52:13,213] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:52:13,230] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.032 seconds
+[2023-10-03 13:52:43,836] {processor.py:153} INFO - Started process (PID=408) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:52:43,836] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:52:43,837] {logging_mixin.py:115} INFO - [2023-10-03 13:52:43,837] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:52:43,848] {logging_mixin.py:115} INFO - [2023-10-03 13:52:43,848] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 72
+    bash_command = 'D:\Users\major\Desktop\EntregaCoder'
+                  ^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+[2023-10-03 13:52:43,849] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:52:43,866] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.032 seconds
+[2023-10-03 13:53:14,471] {processor.py:153} INFO - Started process (PID=461) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:53:14,471] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:53:14,472] {logging_mixin.py:115} INFO - [2023-10-03 13:53:14,472] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:53:14,481] {logging_mixin.py:115} INFO - [2023-10-03 13:53:14,480] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 72
+    bash_command = 'D:\Users\major\Desktop\EntregaCoder'
+                  ^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+[2023-10-03 13:53:14,481] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:53:14,499] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.030 seconds
+[2023-10-03 13:53:45,200] {processor.py:153} INFO - Started process (PID=523) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:53:45,200] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:53:45,201] {logging_mixin.py:115} INFO - [2023-10-03 13:53:45,201] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:53:45,211] {logging_mixin.py:115} INFO - [2023-10-03 13:53:45,211] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 72
+    bash_command = 'D:\Users\major\Desktop\EntregaCoder'
+                  ^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+[2023-10-03 13:53:45,212] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:53:45,228] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.030 seconds
+[2023-10-03 13:54:15,822] {processor.py:153} INFO - Started process (PID=585) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:54:15,823] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:54:15,823] {logging_mixin.py:115} INFO - [2023-10-03 13:54:15,823] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:54:15,833] {logging_mixin.py:115} INFO - [2023-10-03 13:54:15,833] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 72
+    bash_command = 'D:\Users\major\Desktop\EntregaCoder'
+                  ^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+[2023-10-03 13:54:15,834] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:54:15,849] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.029 seconds
+[2023-10-03 13:54:46,561] {processor.py:153} INFO - Started process (PID=647) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:54:46,562] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:54:46,562] {logging_mixin.py:115} INFO - [2023-10-03 13:54:46,562] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:54:46,574] {logging_mixin.py:115} INFO - [2023-10-03 13:54:46,573] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 72
+    bash_command = 'D:\Users\major\Desktop\EntregaCoder'
+                  ^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+[2023-10-03 13:54:46,574] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:54:46,590] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.031 seconds
+[2023-10-03 13:55:17,229] {processor.py:153} INFO - Started process (PID=709) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:55:17,229] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:55:17,230] {logging_mixin.py:115} INFO - [2023-10-03 13:55:17,230] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:55:17,241] {logging_mixin.py:115} INFO - [2023-10-03 13:55:17,241] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 72
+    bash_command = 'D:\Users\major\Desktop\EntregaCoder'
+                  ^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+[2023-10-03 13:55:17,241] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:55:17,256] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.029 seconds
+[2023-10-03 13:55:47,929] {processor.py:153} INFO - Started process (PID=762) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:55:47,930] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:55:47,930] {logging_mixin.py:115} INFO - [2023-10-03 13:55:47,930] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:55:47,941] {logging_mixin.py:115} INFO - [2023-10-03 13:55:47,940] {dagbag.py:320} ERROR - Failed to import: /opt/airflow/dags/__pycache__/dag_moneda.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.7/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 860, in get_code
+  File "<frozen importlib._bootstrap_external>", line 791, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/__pycache__/dag_moneda.py", line 72
+    bash_command = 'D:\Users\major\Desktop\EntregaCoder'
+                  ^
+SyntaxError: (unicode error) 'unicodeescape' codec can't decode bytes in position 2-3: truncated \UXXXXXXXX escape
+[2023-10-03 13:55:47,941] {processor.py:653} WARNING - No viable dags retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:55:47,955] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.028 seconds
+[2023-10-03 13:56:15,589] {processor.py:153} INFO - Started process (PID=824) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:56:15,590] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:56:15,590] {logging_mixin.py:115} INFO - [2023-10-03 13:56:15,590] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:56:15,616] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:56:15,655] {logging_mixin.py:115} INFO - [2023-10-03 13:56:15,655] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:56:15,667] {logging_mixin.py:115} INFO - [2023-10-03 13:56:15,667] {dag.py:2931} INFO - Setting next_dagrun for crypto_api_dag to 2023-04-23T00:00:00+00:00, run_after=2023-04-24T00:00:00+00:00
+[2023-10-03 13:56:15,678] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.090 seconds
+[2023-10-03 13:56:59,160] {processor.py:153} INFO - Started process (PID=45) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:56:59,161] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:56:59,162] {logging_mixin.py:115} INFO - [2023-10-03 13:56:59,162] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:56:59,177] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:56:59,199] {logging_mixin.py:115} INFO - [2023-10-03 13:56:59,198] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:56:59,227] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.069 seconds
+[2023-10-03 13:57:29,798] {processor.py:153} INFO - Started process (PID=107) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:57:29,798] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:57:29,799] {logging_mixin.py:115} INFO - [2023-10-03 13:57:29,799] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:57:29,812] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:57:29,827] {logging_mixin.py:115} INFO - [2023-10-03 13:57:29,827] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:57:29,848] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.052 seconds
+[2023-10-03 13:58:00,456] {processor.py:153} INFO - Started process (PID=169) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:58:00,456] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:58:00,457] {logging_mixin.py:115} INFO - [2023-10-03 13:58:00,457] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:58:00,469] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:58:00,486] {logging_mixin.py:115} INFO - [2023-10-03 13:58:00,486] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:58:00,507] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.053 seconds
+[2023-10-03 13:58:31,210] {processor.py:153} INFO - Started process (PID=222) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:58:31,210] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:58:31,210] {logging_mixin.py:115} INFO - [2023-10-03 13:58:31,210] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:58:31,223] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:58:31,239] {logging_mixin.py:115} INFO - [2023-10-03 13:58:31,239] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:58:31,262] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.054 seconds
+[2023-10-03 13:59:01,978] {processor.py:153} INFO - Started process (PID=284) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:59:01,979] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:59:01,979] {logging_mixin.py:115} INFO - [2023-10-03 13:59:01,979] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:59:01,991] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:59:02,006] {logging_mixin.py:115} INFO - [2023-10-03 13:59:02,006] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:59:02,028] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.051 seconds
+[2023-10-03 13:59:32,528] {processor.py:153} INFO - Started process (PID=346) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:59:32,528] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 13:59:32,529] {logging_mixin.py:115} INFO - [2023-10-03 13:59:32,529] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:59:32,543] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 13:59:32,560] {logging_mixin.py:115} INFO - [2023-10-03 13:59:32,560] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 13:59:32,582] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.056 seconds
+[2023-10-03 14:00:03,213] {processor.py:153} INFO - Started process (PID=408) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:00:03,213] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 14:00:03,214] {logging_mixin.py:115} INFO - [2023-10-03 14:00:03,214] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:00:03,225] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:00:03,241] {logging_mixin.py:115} INFO - [2023-10-03 14:00:03,241] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 14:00:03,261] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.050 seconds
+[2023-10-03 14:00:33,758] {processor.py:153} INFO - Started process (PID=470) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:00:33,758] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 14:00:33,759] {logging_mixin.py:115} INFO - [2023-10-03 14:00:33,759] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:00:33,772] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:00:33,789] {logging_mixin.py:115} INFO - [2023-10-03 14:00:33,789] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 14:00:33,814] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.058 seconds
+[2023-10-03 14:01:04,466] {processor.py:153} INFO - Started process (PID=523) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:01:04,467] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 14:01:04,467] {logging_mixin.py:115} INFO - [2023-10-03 14:01:04,467] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:01:04,481] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:01:04,500] {logging_mixin.py:115} INFO - [2023-10-03 14:01:04,500] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 14:01:04,526] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.061 seconds
+[2023-10-03 14:01:32,311] {processor.py:153} INFO - Started process (PID=611) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:01:32,312] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 14:01:32,312] {logging_mixin.py:115} INFO - [2023-10-03 14:01:32,312] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:01:32,338] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:01:32,354] {logging_mixin.py:115} INFO - [2023-10-03 14:01:32,354] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 14:01:32,376] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.066 seconds
+[2023-10-03 14:02:02,908] {processor.py:153} INFO - Started process (PID=673) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:02:02,909] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 14:02:02,909] {logging_mixin.py:115} INFO - [2023-10-03 14:02:02,909] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:02:02,927] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:02:02,954] {logging_mixin.py:115} INFO - [2023-10-03 14:02:02,954] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 14:02:02,988] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.084 seconds
+[2023-10-03 14:02:33,126] {processor.py:153} INFO - Started process (PID=726) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:02:33,126] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 14:02:33,127] {logging_mixin.py:115} INFO - [2023-10-03 14:02:33,127] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:02:33,139] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:02:33,156] {logging_mixin.py:115} INFO - [2023-10-03 14:02:33,155] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 14:02:33,179] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.055 seconds
+[2023-10-03 14:03:03,196] {processor.py:153} INFO - Started process (PID=788) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:03:03,197] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 14:03:03,197] {logging_mixin.py:115} INFO - [2023-10-03 14:03:03,197] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:03:03,213] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:03:03,228] {logging_mixin.py:115} INFO - [2023-10-03 14:03:03,228] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 14:03:03,249] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.054 seconds
+[2023-10-03 14:03:34,001] {processor.py:153} INFO - Started process (PID=850) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:03:34,002] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 14:03:34,002] {logging_mixin.py:115} INFO - [2023-10-03 14:03:34,002] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:03:34,012] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:03:34,027] {logging_mixin.py:115} INFO - [2023-10-03 14:03:34,027] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 14:03:34,047] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.047 seconds
+[2023-10-03 14:04:04,403] {processor.py:153} INFO - Started process (PID=903) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:04:04,403] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 14:04:04,404] {logging_mixin.py:115} INFO - [2023-10-03 14:04:04,404] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:04:04,415] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:04:04,432] {logging_mixin.py:115} INFO - [2023-10-03 14:04:04,432] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 14:04:04,454] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.053 seconds
+[2023-10-03 14:04:34,795] {processor.py:153} INFO - Started process (PID=965) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:04:34,796] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 14:04:34,796] {logging_mixin.py:115} INFO - [2023-10-03 14:04:34,796] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:04:34,806] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:04:34,821] {logging_mixin.py:115} INFO - [2023-10-03 14:04:34,821] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 14:04:34,843] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.050 seconds
+[2023-10-03 14:05:05,242] {processor.py:153} INFO - Started process (PID=1027) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:05:05,243] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 14:05:05,243] {logging_mixin.py:115} INFO - [2023-10-03 14:05:05,243] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:05:05,253] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:05:05,268] {logging_mixin.py:115} INFO - [2023-10-03 14:05:05,268] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 14:05:05,289] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.049 seconds
+[2023-10-03 14:05:35,566] {processor.py:153} INFO - Started process (PID=1089) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:05:35,566] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 14:05:35,567] {logging_mixin.py:115} INFO - [2023-10-03 14:05:35,567] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:05:35,576] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:05:35,591] {logging_mixin.py:115} INFO - [2023-10-03 14:05:35,591] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 14:05:35,616] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.052 seconds
+[2023-10-03 14:06:05,800] {processor.py:153} INFO - Started process (PID=1142) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:06:05,801] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 14:06:05,801] {logging_mixin.py:115} INFO - [2023-10-03 14:06:05,801] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:06:05,812] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:06:05,828] {logging_mixin.py:115} INFO - [2023-10-03 14:06:05,828] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 14:06:05,852] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.053 seconds
+[2023-10-03 14:06:36,152] {processor.py:153} INFO - Started process (PID=1219) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:06:36,153] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 14:06:36,153] {logging_mixin.py:115} INFO - [2023-10-03 14:06:36,153] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:06:36,163] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:06:36,180] {logging_mixin.py:115} INFO - [2023-10-03 14:06:36,180] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 14:06:36,202] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.051 seconds
+[2023-10-03 14:07:48,881] {processor.py:153} INFO - Started process (PID=45) to work on /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:07:48,881] {processor.py:641} INFO - Processing file /opt/airflow/dags/__pycache__/dag_moneda.py for tasks to queue
+[2023-10-03 14:07:48,882] {logging_mixin.py:115} INFO - [2023-10-03 14:07:48,882] {dagbag.py:507} INFO - Filling up the DagBag from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:07:48,901] {processor.py:651} INFO - DAG(s) dict_keys(['crypto_api_dag']) retrieved from /opt/airflow/dags/__pycache__/dag_moneda.py
+[2023-10-03 14:07:48,923] {logging_mixin.py:115} INFO - [2023-10-03 14:07:48,922] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-10-03 14:07:48,953] {processor.py:161} INFO - Processing /opt/airflow/dags/__pycache__/dag_moneda.py took 0.075 seconds

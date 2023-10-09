@@ -26,3 +26,8 @@ Se crea .env para cargar las credenciales
 Se creo la tabla en Dbeaver con Redshift
 
 Cargar los datos leídos de la API en la tabla.
+
+3) ENTREGA N°3:
+
+Se creo el container en Docker
+Se creo DAG para conectar con Airflow

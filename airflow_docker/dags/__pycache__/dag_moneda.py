@@ -19,7 +19,6 @@ dag = DAG(
     schedule_interval=timedelta(days=1),
 )
 
-# Comando bash que ejecutará tu script de Python
 python_command = 'Entregable.py'
 
 # Tarea para ejecutar el script ETL
@@ -35,7 +34,6 @@ run_etl_task = PythonOperator(
 
 # Tarea para limpiar después de la ejecución del script ETL
 def clean_up_function():
-    # Coloca aquí las operaciones de limpieza que deseas realizar
     pass
 
 clean_up_task = PythonOperator(
@@ -44,7 +42,6 @@ clean_up_task = PythonOperator(
     dag=dag,
 )
 
-# Define el orden de ejecución de las tareas
 run_etl_task >> clean_up_task
 
 run_etl_task

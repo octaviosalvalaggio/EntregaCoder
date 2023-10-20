@@ -1,6 +1,6 @@
 # ENTREGACODER
 
-1) ENTREGA N°1:
+#1) ENTREGA N°1:
 
 Se extrae una API Pública 
 
@@ -23,13 +23,13 @@ Se crea .env para cargar las credenciales
 
 Se crea una conexión a Redshift para la carga de datos.
 
-2) ENTREGA N°2:
+#2) ENTREGA N°2:
    
 Se creo la tabla en Dbeaver con Redshift
 
 Cargar los datos leídos de la API en la tabla.
 
-3) ENTREGA N°3:
+#3) ENTREGA N°3:
 
 Se creo el container con el nombre "Dockerfile"
 
@@ -58,13 +58,12 @@ Se ejecuta atraves de docker-compose up, las tareas que se ejecutan son:
 print_dataframe_task >> run_etl_task
 run_etl_task >> finish_execution_task
 
-4) ENTREGA N°4:
+#4) ENTREGA N°4:
 
 Se incorpora al proyecto el envío de alertas mediante SMTP, atraves de EmailOperator.
 
 Se crea la Tarea email_task
 
-# alerta por correo electrónico
 email_task = EmailOperator(
     task_id='send_email',
     email_on_failure= True,

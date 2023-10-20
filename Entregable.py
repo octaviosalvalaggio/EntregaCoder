@@ -3,7 +3,7 @@ import json
 from sqlalchemy import create_engine
 import pandas as pd
 from decouple import config
-from sqlalchemy.exc import IntegrityError  # Importar esta excepción
+from sqlalchemy.exc import IntegrityError  
 
 # Función para obtener tasas de cambio de criptomonedas a través de la API
 def obtener_tasas_de_cambio(criptos):
